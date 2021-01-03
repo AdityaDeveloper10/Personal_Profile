@@ -1,0 +1,9 @@
+    .myImg {
+        border-radius: 50%;
+        width: 300px;
+    }
+    
+    .body {
+        background-color: black;
+        color: white;
+    }
