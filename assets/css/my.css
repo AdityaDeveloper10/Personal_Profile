@@ -2,6 +2,10 @@
         border-radius: 50%;
         width: 300px;
     }
+    .adiPic{
+        height: 300px;
+        width: 70%;
+    }
     
     .body {
         background-color: rgb(32, 27, 27);
