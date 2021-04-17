@@ -1,3 +1,4 @@
+
 /**
 * Template Name: iPortfolio - v2.0.3
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
@@ -14,9 +15,9 @@
     new Typed('.typed', {
       strings: typed_strings,
       loop: true,
-      typeSpeed: 100,
-      backSpeed: 50,
-      backDelay: 2000
+      typeSpeed: 90,
+      backSpeed: 30,
+      backDelay: 1200
     });
   }
 
